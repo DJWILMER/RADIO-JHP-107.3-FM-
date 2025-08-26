@@ -1,0 +1,20 @@
+{
+  "name": "Radio JHP - 107.3 FM señal de respeto",
+  "short_name": "Radio JHP",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#28a745",
+  "theme_color": "#28a745",
+  "icons": [
+    {
+      "src": "https://i.ibb.co/FkXLbHtM/Radio.jpg",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://i.ibb.co/FkXLbHtM/Radio.jpg",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
